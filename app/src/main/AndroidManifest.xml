@@ -42,7 +42,7 @@ package="com.tabviewex" >
 
     <meta-data
         android:name="com.google.android.maps.v2.API_KEY"
-        android:value="AIzaSyBrfVrVukOCjuc5QB86HOQU-3XBbI9YAQE" />
+        android:value="YOUR_MAP_API_KEY" />
 
 </application>
 
